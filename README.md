@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: MOHAMED AAKIF ASRAR S
+## Reg: 212223240088
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,14 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
+![alt text](7.png)
+![alt text](8.png)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
